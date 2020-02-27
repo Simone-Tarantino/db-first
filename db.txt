@@ -1,0 +1,13 @@
+Automobili Usate
+
+Marca Automobile: stringa varchar(25) - NOTNULL
+Modello Automobile: stringa varchar(35) - NOTNULL
+Prezzo: intero mediumint - NOTNULL
+Chilometraggio: intero mediumint - NOTNULL
+Tipo Carburante: stringa varchar(15) 
+Colore: stringa varchar (20)
+Anno di Uscita: data year
+Anno di Acquisto: data date - NOTNULL
+Tipo di Cambio: stringa varchar (10)
+Numero Possessori: intero tinyint - NOTNULL
+Classe emissioni: stringa varchar (7) 
